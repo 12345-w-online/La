@@ -2,6 +2,7 @@
 *.txt
 *.csv
 *.png
+*.xlsx
 # Игнорирует все файлы с этим именем
 output.txt
 input.txt
